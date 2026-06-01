@@ -4,9 +4,9 @@
 
 ## 1. 项目构想
 
-Ongwu笔记是一个基于GitHub + Vercel + PostgreSQL的Web笔记应用，主打免费白嫖，提供一个简洁、高效、安全的在线笔记管理平台。
+Ongwu笔记是一个基于GitHub + Vercel + PostgreSQL的Web笔记应用，主打免费白嫖平台资源，提供一个简洁、高效、安全的在线笔记管理平台。
 
-### demo：https://note.ongwu.cn
+### demo：[https://note.262944.xyz](https://note.262944.xyz)
 <img width="1920" height="645" alt="note ongwu cn_" src="https://github.com/user-attachments/assets/f1136286-4ab2-4752-bb19-ae91d4f9374b" />
 <img width="1908" height="916" alt="image" src="https://github.com/user-attachments/assets/13a96b30-3047-49e4-ada6-6b0c169b2ead" />
 <img width="1738" height="831" alt="image" src="https://github.com/user-attachments/assets/b5f045f9-2628-4c68-b315-f751e1744d06" />

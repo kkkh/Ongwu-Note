@@ -130,3 +130,17 @@
     @apply flex items-center px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors;
   }
 }
+
+/* 全局备案页脚布局：页面内容区占据页脚以外的剩余高度，确保页脚始终位于页面底部且不遮挡内容 */
+#ongwu_note_app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+#ongwu_note_app > :first-child {
+  flex: 1 1 auto;
+  height: auto;
+  min-height: 0;
+}
